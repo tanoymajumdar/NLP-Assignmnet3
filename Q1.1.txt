@@ -1,0 +1,2 @@
+Used a smaller data set for this question. 
+I read the file and completed the steps as mentioned
